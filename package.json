@@ -1,0 +1,19 @@
+{
+  "name": "nedb-adapter",
+  "version": "1.0.0",
+  "description": "Adapter for Nedb",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "reponsitory": {
+    "type": "git",
+    "url": "git://github.com/rain1024/nedb-adapter.git"
+  },
+  "author": "Brother Rain",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "chai": "~1.10.0",
+    "database-interface": "~1.0.5"
+  }
+}
